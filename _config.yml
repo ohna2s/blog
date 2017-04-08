@@ -2,15 +2,14 @@
 title: Ohblog
 header-img: img/home-bg.jpg
 email: email.ohna2s@gmail.com
-copyright_name: Ohna2s Blog
-description: "Write your site description here. It will be used as your sites meta description as well!"
+copyright_name: Ohlog
+description: "Just another personal blog of Ohna2s"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ohna2s.github.io"
 author: ohna2s
 twitter_username: ohna2s
 github_username:  ohna2s
 facebook_username:  ohna2s
-email_username:  email.ohna2s@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
