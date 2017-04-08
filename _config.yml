@@ -2,10 +2,10 @@
 title: Ohna2s Blog
 header-img: img/home-bg.jpg
 email: email.ohna2s@gmail.com
-copyright_name: ohna2s/ohProject/ohCorporate
+copyright_name: Ohna2s Blog
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://ohna2s.github.io"
+author: ohna2s
 twitter_username: ohna2s
 github_username:  ohna2s
 facebook_username:  ohna2s
